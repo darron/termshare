@@ -1,1 +1,1 @@
-web: termshare -d -s termsha.re:443
+web: termshare -d -n -s termshare.octohost.io:80
